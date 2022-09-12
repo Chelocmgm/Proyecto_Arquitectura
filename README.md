@@ -14,10 +14,6 @@ Implementación de un sistema de control del inventario de libros, control de pr
 ## FACTIBILIDAD (ANÁLISIS DE RIESGOS)
 - ECONÓMICA: El sistema costará un total de 100000Bs aproximadamente.
 - TÉCNICA: El sistema deberá funcionar las 24 horas del día a la página web.
-## DESCRIPCIÓN DE LOS MÓDULOS (MÍNIMO 3)
-- MS - CLIENTE
-- MS - LIBRO
-- MS - PRESTAMO
 ## LISTADO DE REQUERIMIENTOS
 - Registro de almacenes
 - Listado de los productos del inventario
