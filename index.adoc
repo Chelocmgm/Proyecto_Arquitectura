@@ -1,0 +1,36 @@
+## Historias de usuario
+## Registro del almacen
+Autor: Marcelo Gabriel Miranda Mollinedo
+
+Fecha: 12-09-22
+
+Prioridad: Muy Alta
+
+### Descripción
+Como empleado de la Biblioteca, debo tener un registro de todos los libros que se tiene en el local, para esto se requiere la siguiente información:
+
+- Codigo del libro
+- Titulo del libro
+- Nombre del Autor
+- Editorial
+
+Esta información se debe guardar en una BBDD de forma que se tenga un registro de todos los libros que se tiene para que en un futuro se pueda realizar mas pedidos de los libros que faltan.
+
+##  Lista de prestamos
+Autor: Marcelo Gabriel Miranda Mollinedo
+
+Fecha: 12-09-22
+
+Prioridad: Muy Alta
+
+### Descripción
+Como empleado de la Biblioteca, debo tener una lista de los libros que se dieron en prestamo, como tambien el nombre del cliente al que se le realizo el prestamo y la fecha de la devolución, para esto se requiere la siguiente información:
+
+- CI del cliente
+- Nombre del cliente
+- Fecha de entrega
+- Fecha de la devolución
+- Codigo del libro
+
+Esto con el fin de poder tener un mejor control a la hora de realizar prestamos de los libros, tener un mejor control para respetar las fechas de las devoluciones y poder saber mejor cuanto sera el precio de las multas por retraso.
+
