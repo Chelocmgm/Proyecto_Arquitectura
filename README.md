@@ -18,3 +18,11 @@ Implementación de un sistema de control del inventario de libros, control de pr
 - Registro de almacenes
 - Listado de los productos del inventario
 - Verificación del stock
+- Agregado de los libros al sistema
+- Modificado de los libros que estan en el sistema
+- Eliminación de los libros 
+- Listado de los prestamos que se realicen
+- Control del listado de los prestamos
+- Lista de clientes 
+- Lista de la gente con penalización
+
